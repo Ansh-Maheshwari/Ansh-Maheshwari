@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-maheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-maheshwari" /> </p>
 
-- 🔭 I’m currently working in **The Sparks Foundation**
-
 - 🌱 I’m currently learning **Python Backend**
 
 - 👯 I’m looking to collaborate on **Python Projects**
