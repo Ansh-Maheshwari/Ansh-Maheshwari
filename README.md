@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 💬 Ask me about **FFrontEnd (HTML/CSS/JS), Backend(Python/SQL)**
+- 💬 Ask me about **FrontEnd (HTML/CSS/JS), Backend(Python/SQL)**
 
 - 📫 How to reach me **anshm29012004@gmail.com**
 
